@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 👋 Hello, I'm Angga Rahagiyanto
 
-I'm a PhD student in intelligent systems, multidisciplinary developer and lifelong learner with passionate about EMG signal processing, wearable robotics, and human augmentation. I build tools, prototypes, and algorithms that bridge biology and machines to make a real-world impact.
+I'm a PhD student in intelligent systems, a multidisciplinary developer, and lifelong learner with a passion for EMG signal processing, wearable robotics, and human augmentation. I build tools, prototypes, and algorithms that bridge the human body and machines to make a real-world impact.
 
-⚡ Fun fact: I have background 
+⚡ Fun fact about me: You may see me struggle, but you will never see me quit.
 
 🎯 🔭 I’m currently working on:
 - EMG-based control systems
@@ -33,10 +33,10 @@ I'm a PhD student in intelligent systems, multidisciplinary developer and lifelo
 
 📁 About This Repository
 
-This repository serves as a log of my projects, experiments, and learning journey. I will (try) to make documentation with technical note in my weekly progress tracking and experiment documentation. 
+This repository serves as a log of my projects, experiments, and learning journey. I will (try) to make documentation with a technical note in my weekly progress tracking and experiment documentation. 
 Inside, you'll find:
 - What I am learning about 💬
-- What I found when I am learning about many-things 💬
+- What I found when I am learning about many things 💬
 - Technical notes and documentation 💬
 
 🤝 Open to Collaboration
