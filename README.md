@@ -40,6 +40,7 @@ Inside, you'll find:
 - Technical notes and documentation 💬
 
 🤝 Open to Collaboration
+
 I'm always open to discussions, learning together, and building something meaningful. If you're interested in collaborating or simply want to exchange ideas (based on what I do, hehe), feel free to reach out.
 
 📫 How to reach me:
