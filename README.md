@@ -14,3 +14,37 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👋 Hello, I'm Angga Rahagiyanto
+
+I'm a PhD student in intelligent systems, multidisciplinary developer and lifelong learner with passionate about EMG signal processing, wearable robotics, and human augmentation. I build tools, prototypes, and algorithms that bridge biology and machines to make a real-world impact.
+
+⚡ Fun fact: I have background 
+
+🎯 🔭 I’m currently working on:
+- EMG-based control systems
+- Exploring deep learning for biosignals
+- Web3 and mobile application development for integrated sensor platforms
+
+🌱 I’m currently learning:
+- Python for EMG signal analysis and research automation
+- 3D design using Fusion 360 for wearable prototyping
+- Deep learning for signal classification and motion control
+- Mechatronics: integrating sensors, actuators, and microcontrollers
+
+📁 About This Repository
+
+This repository serves as a log of my projects, experiments, and learning journey. I will (try) to make documentation with technical note in my weekly progress tracking and experiment documentation. 
+Inside, you'll find:
+- What I am learning about 💬
+- What I found when I am learning about many-things 💬
+- Technical notes and documentation 💬
+
+🤝 Open to Collaboration
+I'm always open to discussions, learning together, and building something meaningful. If you're interested in collaborating or simply want to exchange ideas (based on what I do, hehe), feel free to reach out.
+
+📫 How to reach me:
+As you can see in my profile. 😄
+
+Website/Blog: soon!
+
+Thanks for stopping by! 🚀
