@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Angga Rahagiyanto👋
 
 <!--
 **rahagiyanto/rahagiyanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,38 +14,41 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋 Hello, I'm Angga Rahagiyanto
+PhD student in intelligent systems at Ritsumeikan University. I am a multidisciplinary developer and lifelong learner passionate about:
 
-I'm a PhD student in intelligent systems, a multidisciplinary developer, and lifelong learner with a passion for EMG signal processing, wearable robotics, and human augmentation. I build tools, prototypes, and algorithms that bridge the human body and machines to make a real-world impact.
+- 🧠 EMG signal processing
+- 🤖 Wearable robotics and human augmentation
+- 🌐 Web3 and mobile sensor platforms
+- 🧬 Deep learning for biosignals
 
-⚡ Fun fact about me: You may see me struggle, but you will never see me quit.
+⚡ *Fun fact*: You may see me struggle, but you will never see me quit.
+---
+## 🎯 Current Projects:
+- EMG-based control systems for wearable devices
+- Deep learning for biosignals classification
+- Web3-integrated mobile apps for sensor data
 
-🎯 🔭 I’m currently working on:
-- EMG-based control systems
-- Exploring deep learning for biosignals
-- Web3 and mobile application development for integrated sensor platforms
-
-🌱 I’m currently learning:
-- Python for EMG signal analysis and research automation
-- 3D design using Fusion 360 for wearable prototyping
-- Deep learning for signal classification and motion control
+## 🌱 Learning Journey:
+- Python for EMG analysis and automation
+- Fusion 360 for robotic hand/arm design
 - Mechatronics: integrating sensors, actuators, and microcontrollers
+- Android programming (Java, Python)
 
-📁 About This Repository
+## 📁 About This Repository
 
-This repository serves as a log of my projects, experiments, and learning journey. I will (try) to make documentation with a technical note in my weekly progress tracking and experiment documentation. 
-Inside, you'll find:
-- What I am learning about 💬
-- What I found when I am learning about many things 💬
-- Technical notes and documentation 💬
+This repo is my personal log of learning and experimentation. It includes:  
 
-🤝 Open to Collaboration
+- Weekly progress tracking
+- Technical notes and reflections 💬
+- Experiments and prototypes 💬
 
-I'm always open to discussions, learning together, and building something meaningful. If you're interested in collaborating or simply want to exchange ideas (based on what I do, hehe), feel free to reach out.
+> ⚠️ This is a living document. Some content may be rough or exploratory.
 
-📫 How to reach me:
-As you can see in my profile. 😄
+## 🤝 Open to Collaboration
 
-Website/Blog: soon!
+I love exchanging ideas, building meaningful tools, and learning together. If you're working on EMG, wearable robotics, or intelligent systems—let's connect!
+
+📫 Reach me via [GitHub Profile](https://github.com/rahagiyanto)  
+🌐 Website/Blog: *coming soon!*
 
 Thanks for stopping by! 🚀
