@@ -2,3 +2,4 @@
 ## Let's learn together!
 
 percobaan update kode.
+tambahkan beberapa kata dan kalimat
