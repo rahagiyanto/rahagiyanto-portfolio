@@ -33,7 +33,6 @@ PhD student in intelligent systems at Ritsumeikan University. I am a multidiscip
 - Python for EMG analysis and automation
 - Fusion 360 for robotic hand/arm design
 - Mechatronics: integrating sensors, actuators, and microcontrollers
-- Android programming (Java, Python)
 
 ## 📁 About This Repository
 
